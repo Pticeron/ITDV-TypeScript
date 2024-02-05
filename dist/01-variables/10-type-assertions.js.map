@@ -1,1 +1,1 @@
-{"version":3,"file":"10-type-assertions.js","sourceRoot":"","sources":["../../01-variables/10-type-assertions.ts"],"names":[],"mappings":""}
+{"version":3,"file":"10-type-assertions.js","sourceRoot":"","sources":["../../01-variables/10-type-assertions.ts"],"names":[],"mappings":"AAAA,wCAAwC;AACxC,mEAAmE;AACnE,mDAAmD;AACnD,wDAAwD;AAExD,IAAI,QAAQ,GAAQ,aAAa,CAAC;AAElC,kDAAkD;AAClD,0CAA0C;AAC1C,IAAI,UAAU,GAAoB,QAAS,CAAC,MAAM,CAAC;AAEnD,mDAAmD;AACnD,+BAA+B;AAC/B,IAAI,UAAU,GAAY,QAAmB,CAAC,MAAM,CAAC"}

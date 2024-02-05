@@ -14,4 +14,4 @@ var result2 = add2(10, 20);
 // const result2: number = add2(10, "text"); // другий аргумент має бути числовим
 // const result2: string = add2(10, 20); // результат роботи функції не може бути наданий рядковою змінною
 console.log(result2);
-//# sourceMappingURL=01-futctions.js.map
+//# sourceMappingURL=01-functions.js.map
